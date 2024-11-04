@@ -3,7 +3,7 @@
 ***I WANT TO MAKE THIS CLEAR!***
 ***EmuNES DOES NOT ENCOURAGE PIRACY!!***
 
-**-----------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------------------------**
 
 Hello and Welcome to the README for EmuNES, EmuNES is an emulator developed by The Linux Trans.
 
